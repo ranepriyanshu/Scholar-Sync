@@ -1,1 +1,1 @@
-# Scholar-Sync
+Scholar Sync => Centralised Research Collaboration Portal
